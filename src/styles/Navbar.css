@@ -45,6 +45,11 @@
   background-color: #2980b9;
 }
 
+.navbar-item a.active {
+  background-color: #2980b9;
+  font-weight: bold;
+}
+
 @media (max-width: 768px) {
   .navbar {
     
